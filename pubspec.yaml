@@ -12,3 +12,5 @@ environment:
 
 dev_dependencies:
   lints: ^1.0.0
+dependencies:
+  uuid: ^3.0.6
