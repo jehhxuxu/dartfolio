@@ -1,3 +1,5 @@
 void main(List<String> arguments) {
-  print('Hello world! Turma 001');
+  print('Bem vindo(a) a Turma 001');
+  print('-----------------------------');
+  print('No  Nome                Idade');
 }
