@@ -6,4 +6,5 @@ void main() {
   print('1   Renata               27');
   print('-----------------------------');
   print('2   Manu                 18');
+  print('3   Nícolas                 26');
 }
