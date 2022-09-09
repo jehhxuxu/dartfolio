@@ -8,4 +8,5 @@ void main() {
   print('2   Manu                 18');
   print('-----------------------------');
   print('3   Rafael Fontes          32');
+  print('5   Cindi                  34');
 }
