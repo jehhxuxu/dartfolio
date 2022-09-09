@@ -1,3 +1,3 @@
-void main(List<String> arguments) {
+void main() {
   print('Hello world! Turma 001');
 }
