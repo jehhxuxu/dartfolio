@@ -8,4 +8,7 @@ void main() {
   print('2   Manu                 18');
   print('-----------------------------');
   print('3   Rafael Fontes          32');
+  print('-----------------------------');
+  print('18   Marcus Senise          29');
+
 }
