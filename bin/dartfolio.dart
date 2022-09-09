@@ -6,5 +6,7 @@ void main() {
   print('1   Renata               27');
   print('-----------------------------');
   print('2   Manu                 18');
-  print('3   Nícolas                 26');
+  print('-----------------------------');
+  print('3   Rafael Fontes          32');
+  print('4   Nícolas Kormann        26');
 }
