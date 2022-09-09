@@ -4,4 +4,6 @@ void main() {
   print('No  Nome                Idade');
   print('-----------------------------');
   print('1   Renata               27');
+  print('-----------------------------');
+  print('30  Beatriz                29');
 }
