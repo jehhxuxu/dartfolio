@@ -9,5 +9,6 @@ void main() {
   print('-----------------------------');
   print('3   Rafael Fontes          32');
   print('-----------------------------');
+  print('4   Paulo                30');
   print('4   Luan Fonseca          33');
 }
