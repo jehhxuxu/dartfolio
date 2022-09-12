@@ -3,15 +3,12 @@ void main() {
   print('-----------------------------');
   print('No  Nome                Idade');
   print('-----------------------------');
-  print('1   Renata               27');
   print('1   Renata                 27');
   print('-----------------------------');
-  print('2   Manu                 18');
   print('2   Manu                   18');
   print('-----------------------------');
   print('3   Rafael Fontes          32');
   print('-----------------------------');
-  print('4   Paulo                30');
   print('4   Paulo                  30');
   print('-----------------------------');
   print('5   Raphael                28');
