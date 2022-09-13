@@ -7,7 +7,10 @@ void main() {
   print('-----------------------------');
   print('2   Manu                 18');
   print('-----------------------------');
-  print('3   Rafael Fontes          32');
+  print('3   Rafael Fontes        32');
   print('-----------------------------');
   print('4   Paulo                30');
+  print('-----------------------------');
+  print('5   Edilson Vilarinho    56');
+  print('-----------------------------');
 }
