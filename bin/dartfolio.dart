@@ -10,4 +10,8 @@ void main() {
   print('3   Rafael Fontes          32');
   print('-----------------------------');
   print('4   Paulo                30');
+  print('-----------------------------');
+  print('5   Nícolas Kormann        26');
+  print('-----------------------------');
+
 }
